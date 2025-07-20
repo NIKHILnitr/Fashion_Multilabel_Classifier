@@ -68,8 +68,6 @@ fashion_multilabel_classifier/
 ├── fashion_classifier_notebook.ipynb
 ├── model/
 │   └── saved_model.h5
-├── streamlit_app/
-│   └── app.py (optional UI)
 ├── README.md
 ```
 
